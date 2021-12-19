@@ -14,9 +14,9 @@ public class StatisticsService {
             if (current_max < income)
                 current_max = income;
 
-        String a = "aaa";
-        String b = "bbb";
-        if (a == b) return current_max_index;
+//        String a = "aaa";
+//        String b = "bbb";
+//        if (a == b) return current_max_index;
 
         return current_max;
 

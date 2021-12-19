@@ -29,6 +29,6 @@ class StatisticsServiceTest {
 
         assertEquals(expected, actual);
 
-        StatisticsService service1 = new StatisticsService();
+        StatisticsService service2 = new StatisticsService();
     }
 }
